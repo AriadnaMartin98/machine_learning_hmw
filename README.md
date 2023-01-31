@@ -1,1 +1,1 @@
-# machine_learning_hmw
+# UCF Machine Learning class: Homeworks
